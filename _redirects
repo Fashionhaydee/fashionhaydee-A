@@ -1,4 +1,1 @@
-/about.html       /about.html       200
-/contact.html     /contact.html     200
-/thank-you.html   /thank-you.html   200
-/custom-process.html /custom-process.html 200
+/admin/*   /admin/index.html   200
